@@ -102,4 +102,11 @@ Assicurati di avere installati:
 ## ✨ **Note**
 - La landing page è progettata per essere facilmente espandibile. Puoi aggiungere nuove funzionalità e sezioni modificando la struttura esistente.
 
+![image](https://github.com/user-attachments/assets/0dae26e8-52d5-46b9-8a6c-70c55d391fcf)
+![image](https://github.com/user-attachments/assets/f897d00b-d56d-47dc-b861-b7db932003f9)
+![image](https://github.com/user-attachments/assets/e6184b42-d7f2-4c0f-a897-6b81087db218)
+![image](https://github.com/user-attachments/assets/ff1661f2-4d1d-45c4-9b66-0ba5ea958cf0)
+
+
+
 
