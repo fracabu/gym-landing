@@ -20,7 +20,7 @@ export function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
-          className="text-5xl md:text-7xl font-bold text-white mb-6"
+          className="text-5xl md:text-7xl font-bold text-white mb-6 mx-20"
         >
           Raggiungi i tuoi obiettivi fitness oggi stesso!
         </motion.h1>
@@ -29,7 +29,7 @@ export function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          className="text-xl md:text-2xl text-gray-200 mb-8"
+          className="text-xl md:text-2xl text-gray-200 mb-8 mx-20"
         >
           Prenota la tua settimana di prova gratuita!
         </motion.p>
